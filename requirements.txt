@@ -1,0 +1,4 @@
+azure-functions
+azure-storage-blob
+pandas
+fastparquet  # Necessário para salvar em Parquet (pode ser trocado por pyarrow, se preferir)
